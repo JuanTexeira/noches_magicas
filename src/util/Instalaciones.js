@@ -1,0 +1,1 @@
+export const INSTALACIONES = [{nombre: "River", id: 1}, {nombre: "Gran Rex", id: 2}, {nombre: "Velez", id:3}]

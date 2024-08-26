@@ -1,0 +1,17 @@
+.modal-estilo{
+    position: 'absolute' !important;
+    top: 50% !important;
+    left: '50%' !important;
+    transform: 'translate(-50%, -50%)' !important;
+    width: '5px' !important;
+    height: 'auto' !important;
+    padding: '3em' !important;
+    background-color: '#fff' !important;
+    border: '2px solid #000' !important;
+    /* box-shadow: 24; */
+    padding: 2rem !important;
+    display: 'flex' !important;
+    flex-direction: 'column' !important;
+    gap: '.5em' !important;
+    border-radius: '1em' !important;
+}

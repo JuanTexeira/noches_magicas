@@ -1,0 +1,18 @@
+.valor-bajo{
+    border: 2px solid hsl(0, 100%, 40%) !important;
+    background-color: hsl(0, 100%, 75%) !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.valor-medio{
+    border: 2px solid hsl(60, 81%, 40%) !important;
+    background-color: hsl(60, 100%, 75%) !important;
+    color: black !important;
+}
+
+.valor-alto{
+    border: 2px solid hsl(117, 100%, 35%) !important;
+    background-color: hsl(117, 100%, 70%) !important;
+    color: black !important;
+}

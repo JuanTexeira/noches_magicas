@@ -1,0 +1,1 @@
+export const ESTADOS_SHOW = ["PRECIO_BASE", "VENTA_PLENA", "MEGA_SHOW"]

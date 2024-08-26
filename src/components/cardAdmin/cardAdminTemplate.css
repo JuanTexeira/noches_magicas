@@ -1,0 +1,22 @@
+.card-admin-show{
+    transition: 0.5s linear all !important;
+}
+
+.selected-show{
+    background-color: #000040 !important;
+    color: white !important;
+}
+
+.selected-show-btn{
+    background-color: white !important;
+    color: black !important;
+}
+
+.selected-edit-btn{
+    color: white !important;
+}
+
+.selected-rango{
+    color: white !important;
+}
+
